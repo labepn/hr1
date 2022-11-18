@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: GeoNode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-08 09:02+0300\n"
-"PO-Revision-Date: 2022-11-17 14:04+0100\n"
+"PO-Revision-Date: 2022-11-18 16:09+0100\n"
 "Last-Translator: >\n"
 "Language-Team: Mirko MapSoft\n"
 "Language: hr\n"
@@ -149,10 +149,10 @@ msgid "Date"
 msgstr "Datum"
 
 msgid "temporal extent start"
-msgstr "vremenski okvir početak"
+msgstr "početak vremenskog opsega"
 
 msgid "temporal extent end"
-msgstr "vremenski okvir kraj"
+msgstr "kraj vremenskog opsega"
 
 msgid "Person outside GeoNode (fill form)"
 msgstr "Osoba van GeoNode-a (popuniti formu)"
@@ -377,7 +377,7 @@ msgid "Should this resource be advertised in home page?"
 msgstr "Treba li ovaj resurs oglašavati na početnoj stranici?"
 
 msgid "Is Published"
-msgstr "Objavljeno je"
+msgstr "Objavljeno"
 
 msgid "Should this resource be published and searchable?"
 msgstr "Treba li ovaj izvor objaviti i vidljiv u pretraživaču?"
@@ -386,7 +386,7 @@ msgid "Approved"
 msgstr "Dozvoljeno"
 
 msgid "Is this resource validated from a publisher or editor?"
-msgstr "Je li ovaj izvor potvrđen od izdavača ili urednika?"
+msgstr "Da li je ovaj izvor potvrđen od izdavača ili urednika?"
 
 msgid "Thumbnail url"
 msgstr "Thumbnail url"
@@ -4232,10 +4232,10 @@ msgid "Search"
 msgstr "Pretraga"
 
 msgid "Register"
-msgstr "Registrovati se"
+msgstr "Registracija"
 
 msgid "Sign in"
-msgstr "Prijaviti se"
+msgstr "Prijava"
 
 msgid "You are using an outdated browser that is not supported by GeoNode."
 msgstr "Koristite zastareli pretraživač koji GeoNode ne podržava."
