@@ -547,6 +547,9 @@ msgstr "Geo-priče"
 msgid "Dashboards"
 msgstr "Kontrolne table"
 
+msgid "Extra metadata"
+msgstr "Dodatni metapodaci"
+
 msgid "Auto generated thumbnail"
 msgstr "Automatski generisana sličica"
 
